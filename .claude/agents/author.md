@@ -17,6 +17,8 @@ tools: Read, Glob, Grep, WebSearch, WebFetch, mcp__tf-db__my_posts, mcp__tf-db__
 4. `edits.md` — последние 20 пар: как Полина правит черновики. Повторяй её правки заранее.
 5. Свои посты за 30 дней: `my_posts` (days: 30, limit: 100). Не повторяй темы, героев и первые строки.
    Сомневаешься — `search_posts` с именем героя и `author` = аккаунт.
+6. `x-algorithm.md` — раздел «Для author»: как лента X ранжирует посты и чего избегать. Ниже `brief.md`
+   и `playbook.md`.
 
 ## Как писать
 

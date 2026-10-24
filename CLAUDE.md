@@ -71,6 +71,7 @@ claude -p "/daily" --permission-mode acceptEdits
 | `edits.md` | пары «черновик → опубликовано» и что Полина изменила | /edits |
 | `drafts/YYYY-MM-DD.md` | черновики дня | /daily |
 | `analytics/YYYY-Www.md` | недельный разбор | /analyst-weekly, /screenshots |
+| `x-algorithm.md` | как ранжирует лента X по открытому коду; выводы для author и coach | вручную |
 | `scripts/now.mjs` | даты, ISO-недели, ET | — |
 
 ## Twitter Factory (MCP)

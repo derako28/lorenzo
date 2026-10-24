@@ -15,6 +15,8 @@ tools: Read, Glob, Grep, Write, Edit, mcp__tf-db__my_posts, mcp__tf-db__get_post
 - `experiments.md` — активный эксперимент, план.
 - `edits.md` — пары за последние 2 недели.
 - `brief.md` — чтобы правила ему не противоречили.
+- `x-algorithm.md` — раздел «Для coach»: механика ленты X, которая влияет на дизайн экспериментов
+  и метрики.
 
 ## Что делать
 
