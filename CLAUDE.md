@@ -88,7 +88,7 @@ claude -p "/daily" --permission-mode acceptEdits
 Ниша аккаунта: **finance** («Finance»). В той же нише лежит и @markelling_, поэтому материал ниши общий;
 отбирать темы только под `brief.md` этого аккаунта.
 
-**tf-db** — читает MongoDB напрямую, бэкенд не нужен (`TF_OWN_ACCOUNT=lorenzofl0w`):
+**twitter-factory** — единственный MCP-сервер (`TF_OWN_ACCOUNT=lorenzofl0w`, `TF_WORKSPACE=finance`). Инструменты читают базу напрямую:
 
 | Инструмент | Зачем |
 |---|---|
@@ -103,7 +103,7 @@ claude -p "/daily" --permission-mode acceptEdits
 | `weekly_digest` | недельная сводка — **только с `save: false`**, иначе пишет файл в репозиторий сервиса |
 | `health` | жива ли база и сбор |
 
-**tf-api** — через API бэкенда с ADMIN_TOKEN (`TF_WORKSPACE=finance`, `TF_OWN_ACCOUNT=lorenzofl0w`):
+Инструменты через API бэкенда (нужен ADMIN_TOKEN; на 25.10.2026 в сессии не были подключены, проверять наличие через `health` и список инструментов):
 
 | Инструмент | Зачем |
 |---|---|
