@@ -51,6 +51,8 @@
 | `/analyst-weekly` | понедельник 10:00 (отчёт сервиса строится в 9:00) | `analytics/YYYY-Www.md` |
 | `/coach` | вторник 9:00 | ветка `coach/YYYY-Www` + PR |
 | `/screenshots` | только вручную, с Полиной | `analytics/YYYY-Www.md` + запись в сервис после подтверждения |
+| `/lorenzo-x-post` | вручную, в диалоге: темы → апрув → 5 хуков, пост, жирный, видео, время | `posts/<герой>-post.txt` |
+| `/reply-slop-check` | вручную, перед публикацией ответа | — |
 
 Запуск по расписанию (VPS, cron, время по Варшаве), из корня репозитория:
 
@@ -72,6 +74,9 @@ claude -p "/daily" --permission-mode acceptEdits
 | `drafts/YYYY-MM-DD.md` | черновики дня | /daily |
 | `analytics/YYYY-Www.md` | недельный разбор | /analyst-weekly, /screenshots |
 | `x-algorithm.md` | как ранжирует лента X по открытому коду; выводы для author и coach | вручную |
+| `analytics/x-analytics-log-2026-10.md` | цифры X Analytics по постам 10.10–23.10 (с подписками) из прошлого проекта | вручную |
+| `docs/` | справка из прошлого проекта: референс-аккаунты, разбор реплаев, ресёрч ниши, «пиши как человек» | вручную |
+| `posts/<герой>-post.txt` | готовый текст поста из /lorenzo-x-post | /lorenzo-x-post |
 | `scripts/now.mjs` | даты, ISO-недели, ET | — |
 
 ## Twitter Factory (MCP)
