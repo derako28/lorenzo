@@ -41,11 +41,13 @@
 | `critic` | оценивает варианты по чеклисту из 10 баллов; видит только тексты, `brief.md`, `playbook.md` |
 | `analyst` | цифры: публичные метрики, отчёт сервиса, скриншоты X Analytics; медианы, посты моложе 48 ч не оценивает |
 | `coach` | превращает разборы и `edits.md` в правки `playbook.md` и следующий эксперимент |
+| `competitor` | разбирает чужие посты ниши с большими просмотрами: хук, структура, триггер, формат; ведёт библиотеку паттернов `competitors/patterns.md` |
 
 ## Скиллы (`.claude/skills/`)
 
 | Скилл | Когда | Итоговый файл |
 |---|---|---|
+| `/competitors` | каждый день 6:30 (перед /daily) | `competitors/YYYY-MM-DD.md`, `competitors/patterns.md` |
 | `/daily` | каждый день 7:00 | `drafts/YYYY-MM-DD.md` |
 | `/edits` | каждый день 23:30 | `edits.md` |
 | `/analyst-weekly` | понедельник 10:00 (отчёт сервиса строится в 9:00) | `analytics/YYYY-Www.md` |
@@ -75,6 +77,7 @@ claude -p "/daily" --permission-mode acceptEdits
 | `analytics/YYYY-Www.md` | недельный разбор | /analyst-weekly, /screenshots |
 | `x-algorithm.md` | как ранжирует лента X по открытому коду; выводы для author и coach | вручную |
 | `analytics/x-analytics-log-2026-10.md` | цифры X Analytics по постам 10.10–23.10 (с подписками) из прошлого проекта | вручную |
+| `competitors/YYYY-MM-DD.md`, `competitors/patterns.md` | разбор чужих постов и библиотека паттернов (приём → счётчики, статус) | /competitors (агент competitor) |
 | `docs/` | справка из прошлого проекта: референс-аккаунты, разбор реплаев, ресёрч ниши, «пиши как человек» | вручную |
 | `posts/<герой>-post.txt` | готовый текст поста из /lorenzo-x-post | /lorenzo-x-post |
 | `scripts/now.mjs` | даты, ISO-недели, ET | — |

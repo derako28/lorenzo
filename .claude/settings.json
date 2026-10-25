@@ -7,6 +7,7 @@
       "Grep",
       "Edit(drafts/**)",
       "Edit(analytics/**)",
+      "Edit(competitors/**)",
       "Edit(edits.md)",
       "Edit(experiments.md)",
       "Edit(playbook.md)",
