@@ -48,9 +48,50 @@
 **Перезаливы (канал не оригинальный, но ролик самого героя)**
 - Suat Erus (Marley 5,1 млн), captaindarwin (Nicole Buffett 520 тыс.), DeshGujaratHD (Zuckerberg 512 тыс.), Investor Archive (Buffett и Gates 47 тыс.), collectiblebooks (Wozniak 7,6 тыс.), Betswaps.com (Ivey 11 тыс.).
 
+## Зацепки по героям «нет видео» (поиск 2026-10-27, WebSearch по youtube.com, просмотры и содержание не проверены)
+
+- Ed McMahon: [«Former Johnny Carson sidekick explains going public on experience of looming house foreclosure»](https://www.youtube.com/watch?v=jsjw09RzjaA); [«Ed McMahon looks back at career, Johnny Carson, bankruptcy»](https://www.youtube.com/watch?v=r8k9jhI-m40); [AP «Report: McMahon Fighting Home Foreclosure»](https://www.youtube.com/watch?v=tqyPr3yuIaU) (вероятно пересказ, не герой).
+- Tommy James: [Noise11, «Me The Mob And The Music, Roulette Records»](https://www.youtube.com/watch?v=2L3tW2tc1m8); [«Interview On His Hits, His Book… Movie»](https://www.youtube.com/watch?v=tLKB2mjyPjI); [«Music Management Seminar featuring Tommy James»](https://www.youtube.com/watch?v=vLLC3S3BW0Y). Возможна проблема: современные подкасты, просмотры вероятно ниже 100 тыс.
+- Little Richard: [60 Minutes, «tells 60 Minutes about Lucille and Tutti Frutti»](https://www.youtube.com/watch?v=qst_K2ShoPM) (по выдаче про песни, не про деньги); 1991 интервью ReelinInTheYears66 уже в библиотеке, слов money и paid в расшифровке нет; интервью 2,5 млн https://www.youtube.com/watch?v=f8X9l5Sq-Y0 — сервис отдаёт расшифровку только для роликов библиотеки, не проверено.
+- Redd Foxx: [Interview with Bill Boggs](https://www.youtube.com/watch?v=-cP7nh1C5tE).
+- Kerkorian: в выдаче только документальные пересказы и один репортаж суда DaimlerChrysler 2003 (https://www.youtube.com/watch?v=OHgHWFWAyPM), сам не говорит о деньгах.
+- Sinatra Jr. и Mackle: интервью самих героев в выдаче не найдено (только пересказы, подкаст Stamos).
+
+### Зацепки по освободившимся героям (поиск 2026-10-27 вечером, WebSearch по youtube.com; просмотры, возраст и содержание не проверены)
+
+- Stallone: [CBS, «on the fight to make Rocky»](https://www.youtube.com/watch?v=SykcB3mQSxU); [«1977: Stallone on making ROCKY»](https://www.youtube.com/watch?v=dFlybZL1mWE); [«Reflects on Rocky, Family, and the Cost of Success»](https://www.youtube.com/watch?v=INHd0DEhRdA).
+- Dolly Parton: [Dan Rather «Big Interview»](https://www.youtube.com/watch?v=9zgqPXULr-s); [«on Turning Down Elvis with I Will Always Love You»](https://www.youtube.com/watch?v=HUZCNd-yzWg); [«on Turning Down Elvis»](https://www.youtube.com/watch?v=d6ewWR1xZDw).
+- John Fogerty: [«Talks About His Court Case With Saul Zaentz»](https://www.youtube.com/watch?v=yrRofdXZzPk); [«John Fogerty Interview»](https://www.youtube.com/watch?v=lAs7nFKxeV0).
+- Ivana Trump: [Primetime 1995, Nancy Collins](https://www.youtube.com/watch?v=6g87E5qqIrU); [CBS Sunday Morning 2017, «First Ex»](https://www.youtube.com/watch?v=-CcwIezIh5o).
+- Mickey Rooney: [«emotional testimony on elder abuse»](https://www.youtube.com/watch?v=W9ikKP5-s5A); [CNN «teary over elder abuse»](https://www.youtube.com/watch?v=Nj50qwmmU9A); [«It can happen to anyone»](https://www.youtube.com/watch?v=Lo0TMDRWOSo).
+- Tina Turner: [Bobbie Wygant 1977](https://www.youtube.com/watch?v=64mySeqRytE) (развод с Ike, о деньгах не подтверждено); остальное в выдаче - пересказы.
+- Kim Basinger: Walters 1998 уже в библиотеке (https://www.youtube.com/watch?v=qrs_9LRpNvI); остальное - пересказы и адвокат Glaser.
+- Billy Joel, Leonard Cohen, James Brown: в выдаче по деньгам только пересказы третьих лиц; Joel [1989 Interview](https://www.youtube.com/watch?v=ZbCV1qVzQUo) не проверен.
+- Новые каналы-источники этого запуска: Bobbie Wygant Archive (интервью 1970-х, Тексас; название канала по выдаче не подтверждено), CBS Sunday Morning (интервью Axelrod), Primetime (ABC, 1990-е); каналы CNN/ABC News для сюжетов Rooney.
+
+Наблюдение: ниша 30 дней уже выбрала почти всех героев с готовым YouTube-интервью о деньгах (Dolly, Stallone, Colonel Parker, Crawford, Helmsley, Tina Turner, Basinger, Ruth Brown). Искать нужно героев, у которых ролик редкий (архив AP, 60 Minutes Archive), а не «топ выдачи по имени».
+
 ## Что это даёт
 
 1. **Порог «от 1 млн просмотров на YouTube» отсекает почти всё, что берёт ниша.** Из 15 найденных источников 1 млн и выше у четырёх (Holmes, Allen, Musk, Marley). Остальные от 7,6 тыс. до 520 тыс., а посты в X набрали 1–5 млн. Просмотры на YouTube не говорят об аудитории X (так уже записано в `lorenzo-x-post`).
 2. **Для нашего профиля (1960–2010) полезны AP Archive, 60 Minutes, CBS, Larry King, Colbert.** Остальное — современные подкасты и перезаливы.
 3. **Часть источников нельзя считать подтверждёнными:** не смотрел сами ролики и не сверял слова героя с постом. Перед выбором — проверка транскрипта и комментариев.
 4. **Нужен список каналов от Полины.** Она знает, откуда взяты видео для Hughes, Sinatra, Carson, Ray Charles; эти каналы сюда не попали, потому что мы искали по постам конкурентов.
+
+## Проверено в Chrome 2026-10-27 (/scout по новой схеме)
+
+Проверка: просмотры, длительность, максимальная высота, доступность в Польше (PL), транскрипт, комментарии (кроме отброшенных по просмотрам или качеству).
+
+| Канал | Ролик | Просмотры | Длит. | Качество / PL | Вердикт |
+|---|---|---|---|---|---|
+| BBC Archive | [1977: Sylvester Stallone on making ROCKY](https://www.youtube.com/watch?v=dFlybZL1mWE) | 1,89 млн | 803 с | 1080p / да | подходит: герой сам говорит, 2 707 комментариев |
+| AXS TV | [Dolly Parton on Turning Down Elvis…](https://www.youtube.com/watch?v=HUZCNd-yzWg) | 407 тыс. | 506 с | 1080p / да | с оговоркой: 177 комментариев, спора нет |
+| The Jonathan Ross Show | [Tina Turner's Escape From Ike Turner](https://www.youtube.com/watch?v=OPF9WW7pDVw) | 1,07 млн | 144 с | 1080p / да | с оговоркой: о деньгах одна фраза |
+| CBS Sunday Morning | [From 2017: "First Ex" Ivana Trump](https://www.youtube.com/watch?v=-CcwIezIh5o) | 5,08 млн | 464 с | 1080p / да | нет: закадровый портрет, деньги не центр |
+| CBS Sunday Morning | [Stallone on the fight to make "Rocky"](https://www.youtube.com/watch?v=SykcB3mQSxU) | 82,7 тыс. | 529 с | 1080p / да | ниже 100 тыс.; полезен как источник $360,000 |
+| That's Entertainment | [Kim Basinger/Barbara Walters USA Interview](https://www.youtube.com/watch?v=qrs_9LRpNvI) | 127 тыс. | 844 с | 480p / да | нет: ниже 720p |
+| John Fogerty (канал героя) | [Talks About His Court Case With Saul Zaentz](https://www.youtube.com/watch?v=yrRofdXZzPk) | 20 тыс. | 81 с | 1080p / да | нет: короче 90 с, меньше 100 тыс. |
+| BillBoggsTV | [Redd Foxx Interview with Bill Boggs](https://www.youtube.com/watch?v=-cP7nh1C5tE) | 134 тыс. | 632 с | — / да | нет: о деньгах ~20 с |
+| CBS | [Mickey Rooney's emotional testimony on elder abuse](https://www.youtube.com/watch?v=W9ikKP5-s5A) | 548 тыс. | 198 с | 720p / да | нет: тема насилия, деньги вскользь |
+
+Что показали проверки: доступно в Польше было всё; 720p и выше нет только у Basinger (480p). В выдаче старые телеинтервью в 1080p встречаются на каналах BBC Archive, AXS TV, CBS.
