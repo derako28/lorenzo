@@ -41,12 +41,14 @@
 | `critic` | оценивает варианты по чеклисту из 10 баллов; видит только тексты, `brief.md`, `playbook.md` |
 | `analyst` | цифры: публичные метрики, отчёт сервиса, скриншоты X Analytics; медианы, посты моложе 48 ч не оценивает |
 | `coach` | превращает разборы и `edits.md` в правки `playbook.md` и следующий эксперимент |
+| `scout` | ищет новых героев и закрытые истории по всему интернету, проверяет свежесть в нише, оценивает и пополняет `topics/pool.md` |
 | `competitor` | разбирает чужие посты ниши с большими просмотрами: хук, структура, триггер, формат; ведёт библиотеку паттернов `competitors/patterns.md` |
 
 ## Скиллы (`.claude/skills/`)
 
 | Скилл | Когда | Итоговый файл |
 |---|---|---|
+| `/scout` | раз в день до /daily (предложено 6:00; расписание ставит Полина) | `topics/pool.md` |
 | `/competitors` | каждый день 6:30 (перед /daily) | `competitors/YYYY-MM-DD.md`, `competitors/patterns.md` |
 | `/daily` | каждый день 7:00 | `drafts/YYYY-MM-DD.md` |
 | `/edits` | каждый день 23:30 | `edits.md` |
@@ -78,6 +80,7 @@ claude -p "/daily" --permission-mode acceptEdits
 | `docs/replies-policy.md` | безопасный протокол ответов под чужими постами и журнал результатов | вручную, /analyst-weekly |
 | `data/post-analytics.md` | цифры X Analytics по постам через 24–48 часов (шеры, раскрытия, доля не подписчиков, возраст замера) | /screenshots |
 | `data/my-posts.md` | 10 лучших и 10 худших своих постов за скользящие 60 дней (хук, мост к видео, концовка, метрики, время); образцы для author, critic и /lorenzo-x-post | /analyst-weekly |
+| `topics/pool.md` | пул героев и закрытых историй с оценкой, статусом и свежестью в нише; счётчик типов | /scout, /daily (статус «взята») |
 | `drafts/YYYY-MM-DD.md` | черновики дня | /daily |
 | `analytics/YYYY-Www.md` | недельный разбор | /analyst-weekly, /screenshots |
 | `x-algorithm.md` | как ранжирует лента X по открытому коду; выводы для author и coach | вручную |
