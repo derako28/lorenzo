@@ -73,7 +73,7 @@ claude -p "/daily" --permission-mode acceptEdits
 | `playbook.md` | правила с доказательствами и статусом | только coach, через PR |
 | `experiments.md` | активный эксперимент, план, промежуточные цифры, итоги | /analyst-weekly (цифры), /coach (итоги, план) |
 | `edits.md` | пары «черновик → опубликовано» и что Полина изменила | /edits |
-| `data/my-posts.md` | 10 лучших и 10 худших своих постов (хук, мост к видео, концовка, метрики, время); образцы для author, critic и /lorenzo-x-post | /analyst-weekly |
+| `data/my-posts.md` | 10 лучших и 10 худших своих постов за скользящие 60 дней (хук, мост к видео, концовка, метрики, время); образцы для author, critic и /lorenzo-x-post | /analyst-weekly |
 | `drafts/YYYY-MM-DD.md` | черновики дня | /daily |
 | `analytics/YYYY-Www.md` | недельный разбор | /analyst-weekly, /screenshots |
 | `x-algorithm.md` | как ранжирует лента X по открытому коду; выводы для author и coach | вручную |
