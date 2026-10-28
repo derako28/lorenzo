@@ -71,6 +71,16 @@
 
 Наблюдение: ниша 30 дней уже выбрала почти всех героев с готовым YouTube-интервью о деньгах (Dolly, Stallone, Colonel Parker, Crawford, Helmsley, Tina Turner, Basinger, Ruth Brown). Искать нужно героев, у которых ролик редкий (архив AP, 60 Minutes Archive), а не «топ выдачи по имени».
 
+### Зацепки запуска 2026-10-28 (WebSearch с allowed_domains youtube.com; просмотры, возраст, качество не проверены: Chrome в этом запуске недоступен)
+
+- Graham Bensinger (канал, интервью с бойцами и звёздами, полные выпуски): Foreman [«From heavyweight champ to king of cookware \| Full Interview»](https://www.youtube.com/watch?v=lMeCRqCgYBA), [«Earned $5 million/month on grill»](https://www.youtube.com/watch?v=kInMpRJHj70). Новый канал-источник: герой сам говорит о деньгах, полные выпуски дают кусок на 90-360 с.
+- Нижняя граница поиска: WebSearch с `allowed_domains: ["youtube.com"]` отдаёт ссылки и названия на YouTube; без этого параметра YouTube не выдаётся. oEmbed (`https://www.youtube.com/oembed?url=<watch-ссылка>&format=json`) через WebFetch отдаёт название и канал, но не просмотры. WebFetch на watch-страницу и на YouTube search - только навигация, без метрик; Invidious/Piped недоступны (403/502).
+- Nixon, 17.11.1973 (налоги): короткие клипы, полный Q&A на YouTube не найден (в архивах Criterion Channel, Buyout Footage).
+- Willie Nelson: Costas 1991 (канал Captain Mr. Oracle) - перезалив NBC, использован пятью конкурентами; Larry King 2010 (Music Playlist Channel).
+- McCartney и Jackson: ролики Stern 2001 и несколько перезаливов (ссылки в pool.md); использованы минимум пятью конкурентами.
+- Tom Petty, Debbie Reynolds: ролика самого героя о деньгах в выдаче нет, только пересказы.
+- Наблюдение: поиск героев «по типу» (развод, завещание, выкуп) с `allowed_domains` даёт пересказы и ролики-пересказы. Работает только поиск по имени конкретного героя; список героев надо брать из памяти и из архивных передач (Walters, Larry King, Costas, Oprah), а не из выдачи.
+
 ## Что это даёт
 
 1. **Порог «от 1 млн просмотров на YouTube» отсекает почти всё, что берёт ниша.** Из 15 найденных источников 1 млн и выше у четырёх (Holmes, Allen, Musk, Marley). Остальные от 7,6 тыс. до 520 тыс., а посты в X набрали 1–5 млн. Просмотры на YouTube не говорят об аудитории X (так уже записано в `lorenzo-x-post`).
@@ -95,3 +105,16 @@
 | CBS | [Mickey Rooney's emotional testimony on elder abuse](https://www.youtube.com/watch?v=W9ikKP5-s5A) | 548 тыс. | 198 с | 720p / да | нет: тема насилия, деньги вскользь |
 
 Что показали проверки: доступно в Польше было всё; 720p и выше нет только у Basinger (480p). В выдаче старые телеинтервью в 1080p встречаются на каналах BBC Archive, AXS TV, CBS.
+
+## Проверено в Chrome 2026-10-28 (/scout)
+
+| Канал | Ролик | Просмотры | Длит. | Качество / PL | Вердикт |
+|---|---|---|---|---|---|
+| Letterman | [Dave Chappelle Didn't Really Quit His Show](https://www.youtube.com/watch?v=r6RZ41p-42o) | 1,58 млн | 265 с | 720p / да | с оговоркой: герой говорит о деньгах (по пересказу), 564 комментария (0,36 на 1000), спора нет |
+| Impaulsive | [Charlie Sheen on Two and a Half Men $2M/ep](https://www.youtube.com/watch?v=DCXzKKjY1Cw) | 1,19 млн | 5 588 с | 2160p / да | слабо: подкаст с двумя ведущими, глава 47:25-58:23, спора о деньгах нет |
+| Factba.se | [Walters 20/20 с Trump, 1990](https://www.youtube.com/watch?v=5TwVCuPJrMw) | 758 тыс. | 1 114 с | 360p / да | нет: ниже 720p |
+| Factba.se | [Trump on Larry King Live, 1999](https://www.youtube.com/watch?v=gEVzCtcT-Mo) | 177 тыс. | 2 426 с | 480p / да | нет: ниже 720p |
+| Carson Tonight Show | [Pete Rose on His Time in Prison](https://www.youtube.com/watch?v=-57T7OFMsFQ) | 302 тыс. | 421 с | 480p / да | нет: ниже 720p, про тюрьму |
+| Graham Bensinger | [Foreman Full Interview](https://www.youtube.com/watch?v=lMeCRqCgYBA) | 51 тыс. | - | - | нет: ниже 100 тыс. |
+
+Наблюдение: архивные ролики 1989-1999 на каналах-перезаливах (Factba.se) чаще всего в 360-480p; HD дают BBC Archive, AXS TV, CBS, Letterman.
