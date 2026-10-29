@@ -81,6 +81,14 @@
 - Tom Petty, Debbie Reynolds: ролика самого героя о деньгах в выдаче нет, только пересказы.
 - Наблюдение: поиск героев «по типу» (развод, завещание, выкуп) с `allowed_domains` даёт пересказы и ролики-пересказы. Работает только поиск по имени конкретного героя; список героев надо брать из памяти и из архивных передач (Walters, Larry King, Costas, Oprah), а не из выдачи.
 
+### Зацепки запуска 2026-10-29 (WebSearch с allowed_domains youtube.com + oEmbed; просмотры не проверены)
+
+- Cher (Sonny Bono, деньги): The Howard Stern Show https://www.youtube.com/watch?v=_2DGzrQ65nc ; TODAY https://www.youtube.com/watch?v=RaGtODRjeFE .
+- Brian Wilson об отце: CBC «George Tonight» https://www.youtube.com/watch?v=RumlTPzIeQw ; ABC Primetime Live 1991 https://m.youtube.com/watch?v=Rp7BCmhhga0 (Landy, уже взят hedgemindx).
+- Carol Burnett: SiriusXM https://www.youtube.com/watch?v=8TtI3U4JDwk .
+- Tomi Rae Brown (James Brown): AP Archive https://www.youtube.com/watch?v=tqowy13sdn4 - архивный канал.
+- Наблюдение: общий поиск по типу истории («divorce», «will») снова отдаёт каналы-разборы («At 92 ... FINALLY admits»), не интервью. Рабочий путь - имя героя + «interview» + программа. Для Lee Marvin, Florence Ballard, Judy Garland (деньги) ролик героя не найден.
+
 ## Что это даёт
 
 1. **Порог «от 1 млн просмотров на YouTube» отсекает почти всё, что берёт ниша.** Из 15 найденных источников 1 млн и выше у четырёх (Holmes, Allen, Musk, Marley). Остальные от 7,6 тыс. до 520 тыс., а посты в X набрали 1–5 млн. Просмотры на YouTube не говорят об аудитории X (так уже записано в `lorenzo-x-post`).
