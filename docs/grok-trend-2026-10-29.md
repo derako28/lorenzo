@@ -145,3 +145,13 @@ competitors/ за октябрь обращений к Grok в тексте ви
 - https://x.com/grok/status/1946675175581466867 (Grok: Andy Byron, развод)
 - https://x.com/ciggsafterregs/status/2114590001296216331
 - https://x.com/Stevetweetzz1/status/2114725413725626466
+
+Сами посты, под которыми звали Grok (x.com из сессии не открывается, родительский пост виден не везде):
+- Rowan Atkinson, «$160 million» (фейк): https://x.com/Maaachaaa69/status/2021476255707824524 —
+  точно (ответ Grok адресован @Maaachaaa69). Та же история у других: https://x.com/GPLPCN/status/2022652614807331000
+- Мать Tucker Carlson и $1 в завещании — точный родительский пост не установлен, посты на эту историю:
+  https://x.com/NotHoodlum/status/1628013426722189313, https://x.com/gregolear/status/1754995804673044833,
+  https://x.com/hugoandalice/status/1372439106907631616
+- Andy Byron, развод — точный родительский пост не установлен, посты на эту историю:
+  https://x.com/_Emperor_III/status/1946139993946091825, https://x.com/D_Julius0/status/1947849170699882536
+- Mel Gibson ($425M), Will Smith (~$350M) — родительские посты не нашёл.
