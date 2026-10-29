@@ -155,3 +155,16 @@ competitors/ за октябрь обращений к Grok в тексте ви
 - Andy Byron, развод — точный родительский пост не установлен, посты на эту историю:
   https://x.com/_Emperor_III/status/1946139993946091825, https://x.com/D_Julius0/status/1947849170699882536
 - Mel Gibson ($425M), Will Smith (~$350M) — родительские посты не нашёл.
+
+Посты, где сам автор спрашивает Grok, ближе всего к нашей нише (веб-поиск 29.10.2026; цифры не сверены, x.com недоступен):
+- RabbiJeffx: «Just 48 HOURS before "dying" in prison, Epstein suddenly signed a new will transferring his estimated
+  $577 MILLION fortune into a private trust. |@grok| YES or NO.» — https://x.com/RabbiJeffx/status/2111101578686112182
+  (завещание + сумма + вопрос «да или нет»; Grok ответил «Yes»; аккаунт конспирологический, то же у него
+  «Hey @grok, concise no spin…» — https://x.com/RabbiJeffx/status/2113593836450861311)
+- William Shatner сам: «Hey @Grok I'm worth about $10.00. Where did you get your info?» (март 2025) —
+  https://x.com/WilliamShatner/status/1898546558125416936 (Grok ответил: $100M по Celebrity Net Worth)
+- mslaggert: «Hey @grok tell me Peller and Ycee's net worth below..» (Нигерия, июнь 2026) —
+  https://x.com/mslaggert/status/2070423701175026039
+- ciggsafterregs: «…divorce her right away. Hey @grok can you explain why?» (отношения, не деньги) —
+  https://x.com/ciggsafterregs/status/2114590001296216331
+Аккаунтов-историй о деньгах знаменитостей с этим форматом поиск не нашёл.
